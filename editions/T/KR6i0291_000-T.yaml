@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0291/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛藏經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0653.xml
+    old_id: T15n0653
+hash: sha256:db53039f2c26a8edcc4652fcb1e0d0e5a354c2ceebd51ace7ae46b18482c628d

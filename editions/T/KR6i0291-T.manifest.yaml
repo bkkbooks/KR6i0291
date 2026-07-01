@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6i0291/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0291/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛藏經
+  identifiers:
+    krp: KR6i0291
+    cbeta: T15n0653
+    cbeta_old_id: T15n0653
+    authorityid: CA0001099
+    json_key: T0653
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0653.xml
+    old_id: T15n0653
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0291_000-T.yaml, hash: 'sha256:db53039f2c26a8edcc4652fcb1e0d0e5a354c2ceebd51ace7ae46b18482c628d'}
+  - {seq: 1, filename: KR6i0291_001-T.yaml, hash: 'sha256:06fecfc4b3c8cac29cadfa5893da96daf145835f62d072c673902f12fa97b198'}
+  - {seq: 2, filename: KR6i0291_002-T.yaml, hash: 'sha256:68d0652da061c32c775e1642787bd23534beaea5eb6a1b1e97415ed9bb1e10dd'}
+  - {seq: 3, filename: KR6i0291_003-T.yaml, hash: 'sha256:e18a4da11d0388736e41eb6701c967d0f54dc86c831348f220bfd109fe71118b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0291_000-T.markers.yaml, hash: 'sha256:90c597d475db7d2b467e3a50be1016348f5f1020ca3485bd8d6471ee2e2ad859'}
+  - {seq: 1, role: markers, filename: assets/KR6i0291_001-T.markers.yaml, hash: 'sha256:79b356682b65e915d7554d40de5da508a7f810b765c8fed7ecf54db51d20a99e'}
+  - {seq: 2, role: markers, filename: assets/KR6i0291_002-T.markers.yaml, hash: 'sha256:ef1d1d50a6e650e9a1fa7692007fede368b42391feb217882d7bac44f76f5b75'}
+  - {seq: 3, role: markers, filename: assets/KR6i0291_003-T.markers.yaml, hash: 'sha256:1ebada95b1f32683da98228e436c7ae22b44f66baab651639a72ea3185dc5391'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0291_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10111
+  label: 佛藏經卷上奉入龍華經一名選擇諸法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0291_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 諸法實相品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0291_T_001-mulu-2
+    span:
+    - body
+    - 2131
+    - 2131
+  label: 2 念佛品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0291_T_001-mulu-3
+    span:
+    - body
+    - 3745
+    - 3745
+  label: 3 念法品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0291_T_001-mulu-4
+    span:
+    - body
+    - 4882
+    - 4882
+  label: 4 念僧品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0291_T_001-mulu-5
+    span:
+    - body
+    - 7878
+    - 7878
+  label: 5 淨戒品(上-中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0291_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10565
+  label: 佛藏經卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0291_T_002-mulu-1
+    span:
+    - body
+    - 4855
+    - 4855
+  label: 6 淨法品(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0291_T_002-mulu-2
+    span:
+    - body
+    - 7286
+    - 7286
+  label: 7 往古品(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0291_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 11071
+  label: 佛藏經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0291_T_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 8 淨見品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0291_T_003-mulu-2
+    span:
+    - body
+    - 4543
+    - 4543
+  label: 9 了戒品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0291_T_003-mulu-3
+    span:
+    - body
+    - 8480
+    - 8480
+  label: 10 囑累品(下)
+  type: mulu
+  level: 1
+hash: sha256:92c16ad1bda8aec21fa08257be2227df0d7330ac5d693aef406af87b3b31c361
